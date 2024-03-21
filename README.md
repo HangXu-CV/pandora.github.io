@@ -1,0 +1,1 @@
+Hello, I’m Hang Xu, an Associate professor at the School of Communication Engineering, Hangzhou Dianzi University. My research mainly focuses on object detection and their applications, including spherical image object detection, remote sensing image object detection and bev object detection.
