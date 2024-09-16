@@ -1,9 +1,7 @@
-@article{qian2012edge,
-  title={An edge detection method in DCT domain},
-  author={Qian, Zhenxing and Wang, Wenwen and Qiao, Tong},
-  journal={Procedia Engineering},
-  volume={29},
-  pages={344--348},
-  year={2012},
-  publisher={Elsevier}
+@inproceedings{xu2023gaussian,
+  title={Gaussian label distribution learning for spherical image object detection},
+  author={Xu, Hang and Liu, Xinyuan and Zhao, Qiang and Ma, Yike and Yan, Chenggang and Dai, Feng},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1033--1042},
+  year={2023}
 }
