@@ -1,0 +1,7 @@
+@inproceedings{liu2023sph2pob,
+  title={Sph2Pob: Boosting Object Detection on Spherical Images with Planar Oriented Boxes Methods.},
+  author={Liu, Xinyuan and Xu, Hang and Chen, Bin and Zhao, Qiang and Ma, Yike and Yan, Chenggang and Dai, Feng},
+  booktitle={IJCAI},
+  pages={1231--1239},
+  year={2023}
+}

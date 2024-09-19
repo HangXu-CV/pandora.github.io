@@ -1,8 +1,9 @@
-@inproceedings{qian2010image,
-  title={Image self-embedding with large-area restoration capability},
-  author={Qian, Zhenxing and Qiao, Tong},
-  booktitle={2010 International Conference on Multimedia Information Networking and Security},
-  pages={649--652},
-  year={2010},
-  organization={IEEE}
+@inproceedings{dai2022unbiased,
+  title={Unbiased iou for spherical image object detection},
+  author={Dai, Feng and Chen, Bin and Xu, Hang and Ma, Yike and Li, Xiaodong and Feng, Bailan and Yuan, Peng and Yan, Chenggang and Zhao, Qiang},
+  booktitle={Proceedings of the AAAI conference on artificial intelligence},
+  volume={36},
+  number={1},
+  pages={508--515},
+  year={2022}
 }
